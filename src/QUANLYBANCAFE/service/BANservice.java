@@ -12,8 +12,6 @@ import java.util.ArrayList;
  *
  * @author ADMIN
  */
-
-//Hello Nguyen Duy Viet
 public class BANservice {
     private BANDAO bandao;
     
