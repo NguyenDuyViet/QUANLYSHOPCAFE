@@ -12,8 +12,6 @@ import java.util.ArrayList;
  *
  * @author ADMIN
  */
-
-//no clone
 public class BANservice {
     private BANDAO bandao;
     
