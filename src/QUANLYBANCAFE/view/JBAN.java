@@ -420,7 +420,6 @@ public class JBAN extends javax.swing.JFrame {
             new EditBanCafe(maBan).setVisible(true);
             this.dispose();
         }
-        
     }//GEN-LAST:event_btnChangeActionPerformed
 
     private void clearFields() {
